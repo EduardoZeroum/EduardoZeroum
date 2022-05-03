@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @EduardoZeroum
+- 👀 I’m interested in Python, Linux and Java/JS.
+- 🌱 I’m currently learning Linux.
+- 💞️ I’m looking to collaborate on Zeroum.
+- 📫 How to reach me: eduardosilveira@zeroum.eu
